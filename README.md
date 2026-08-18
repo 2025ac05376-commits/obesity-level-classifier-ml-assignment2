@@ -101,9 +101,9 @@ manual encoding step.
 
 ## c. GitHub Repository Link
 
-**Repository:** `<PASTE YOUR GITHUB REPO URL HERE>`
+**Repository:** https://github.com/2025ac05376-commits/obesity-level-classifier-ml-assignment2
 
-**Live Streamlit app:** `<PASTE YOUR STREAMLIT APP URL HERE>`
+**Live Streamlit app:** https://obesity-classifier-2025ac05376.streamlit.app/
 
 Repository contents:
 
